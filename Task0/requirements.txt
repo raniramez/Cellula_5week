@@ -1,0 +1,7 @@
+langgraph
+langchain
+langchain-openai
+faiss-cpu
+datasets
+openai
+ipython
