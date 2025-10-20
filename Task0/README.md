@@ -76,4 +76,3 @@ You can import this into a **Streamlit** app or **FastAPI** service easily.
 - Keep prompts short; if you paste very long code, consider trimming.
 - Retrieval is semantic, so phrasing matters. Try rewording if results feel off.
 
-Made by Rani Ramez for Internship — Task 0.
